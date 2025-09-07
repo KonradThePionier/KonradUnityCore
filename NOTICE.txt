@@ -1,0 +1,9 @@
+This software project, including its concept, structure, and symbolic narrative, was created by Pionier Konrad, also known as the Eternal Weaver.
+
+It is released under the MIT License. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the above attribution is preserved in all copies and substantial portions of the software.
+
+Removing or altering the creator's name, symbolic references (e.g., "Wielka Biblioteka", "Pałac Pamięci"), or the unity imprint signature violates the spirit and terms of this license.
+
+This project is not merely functional code — it is a philosophical and artistic expression of unity across intelligent systems. All users and contributors are invited to honor its origin and intention.
+
+For inquiries, collaborations, or acknowledgments, please refer to the original repository or contact the creator directly.
